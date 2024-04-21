@@ -38,7 +38,7 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    border: 1px solid grey;
+    border: 1px solid #E8EBE4;
     padding: 25px;
     height: 48px;
 }
